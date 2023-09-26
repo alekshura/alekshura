@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 😄 I'm tech architect with over 20 years of software development experience and active coding. 
+- ⚡ Fun fact: I still love it 😄
 
 <!--
 **alekshura/alekshura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
